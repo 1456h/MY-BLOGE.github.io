@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+/* 提供给lidt、detail等的CSS */
+
+*{margin:0px; padding:0px; border:none; }
+
+
+/* 高度随便写、宽度为1200px */
+.l{height:690px; width:1200px;margin:0px auto 0px auto;}
+
+
+/*the top*/
+.l .l-thetop{height:30px; width:1200px; background:#ffffff; text-align:center; line-height:30px;font-size:16px;color:#BB9646; }
+
+
+
+
+
+/*顶部*/
+.l .l-top{height:600px; width:1200px;background:#EDEDED;}
+.l .l-top .l-top-1{height:120px; width:210px;float:left;margin-top:20px; margin-left:20px; } 
+.l .l-top .l-top-2{height:120px; width:210px;float:left;margin-top:20px; margin-left:20px;} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*底部*/
+.l .l-bottom{height:45px; width:900px; padding:15px 0px 0px 300px; }
+.l .l-bottom .l-bottom-1{height:30px; width:600px;background:#FF3135; text-align:center; line-height:30px; font-size:20px;}
+.l .l-bottom .l-bottom-1 a{display:block;height:30px; width:600px; text-decoration:none;  color:#ffffff;}
+.l .l-bottom .l-bottom-1 a:hover{background:#FF0004; color:#FFAF2C;}
+
+
+
+

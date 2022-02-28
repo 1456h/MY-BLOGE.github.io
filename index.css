@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 提供给Home、rename的CSS */
+*{margin:0px; padding:0px; border:none;}
+
+.q{height:1060px; width:1200px;margin:0px auto 0px auto;}
+
+
+/*顶部*/
+.q .q-top{height:30px; width:1200px; background:#ffffff; text-align:center; line-height:30px;font-size:16px;color:#BB9646; }
+
+
+/*左边*/
+.q .q-left{height:1000px; width:350px; background:#A5B2FF; float:left;}
+.q .q-left .q-left-1{height:325px; width:150px;padding:175px 100px 0px 100px;background:#A3CF98;}
+.q .q-left .q-left-1 .q-left-11{height:170px; width:150px;}
+.q .q-left .q-left-1 .q-left-12{height:44px; width:150px; text-align:center; line-height:44px;font-size:24px;color:#ffffff;}
+.q .q-left .q-left-1 .q-left-13{height:111px; width:150px; font-size:16px;color:#F8F4D6;}
+
+
+.q .q-left .q-left-2{height:460px; width:350px;background:#725D5D;padding:40px 120px 0px 120px;}
+.q .q-left .q-left-2 ul li{height:40px; width:110px; list-style:none; text-align:center; line-height:40px; font-size:20px; margin-bottom:40px;}
+.q .q-left .q-left-2 ul li a{display:block; height:40px; width:110px;  text-decoration:none; color:#ffffff;}
+.q .q-left .q-left-2 ul li a:hover{background:url(images/bg.png); color:#FFE011;}
+
+.q .q-left .q-left-2 ul .m{background:url(images/bg.png);}
+
+
+
+
+/*右边*/
+.q .q-right{height:980px; width:700px; background:#E8FDC4; float:left;padding:20px 75px 0px 75px;}
+/*右边模块一*/
+.q .q-right .q-right-1{height:140px; width:680px; background:#C1D79B;font-size:24px; margin-bottom:10px;padding:20px 0px 0px 20px;}
+.q .q-right .q-right-1 .q-right-11{text-decoration:none; color:#ffffff;}
+.q .q-right .q-right-1 .q-right-12{height:90px; width:680px; color:#ffffff;font-size:16px;padding-top:10px;}
+/*右边模块二*/
+.q .q-right .q-right-2{height:140px; width:680px; background:#C1D79B;font-size:24px; margin-bottom:10px;padding:20px 0px 0px 20px;}
+.q .q-right .q-right-2 .q-right-21{text-decoration:none; color:#ffffff;}
+.q .q-right .q-right-2 .q-right-22{height:90px; width:680px; color:#ffffff;font-size:16px;padding-top:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
